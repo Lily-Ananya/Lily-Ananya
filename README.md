@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananya Mondal
-- 👀 I’m interested in coding,building new projects,problem solving,developing,learning new technologies and ofc designing
+- 👀 I’m interested in coding,building new projects,problem solving,developing,learning new technologies and  designing
 - 🌱 I’m currently learning different computer languages,DSA,networking,web development.
 - 💞️ I’m looking to collaborate with other developer,people on real life problem solving,various coding & non coding projects and tech applicactions.
 - 📫 My gmail id : raniananya2003@gmail.com
